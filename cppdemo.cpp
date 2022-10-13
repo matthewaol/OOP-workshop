@@ -1,3 +1,5 @@
+// Source: https://www.youtube.com/watch?v=wN0x9eZLix4 Object Oriented Programming (OOP) in C++ Course
+
 #include <iostream>
 using namespace std;
 class AbstractEmployee {
